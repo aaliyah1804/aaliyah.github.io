@@ -3,11 +3,8 @@
 body{
   background-color: #00008B;
   color:red;
-  <html>
-  <head>
-  <style>
-  p.serif{
-    font-family: "Comic Sans MS", cursive, sans-serif;
-  }
+ h1 {
+   font-size: 250%;
+ }
 }
 
